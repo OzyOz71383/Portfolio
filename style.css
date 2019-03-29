@@ -1,0 +1,18 @@
+body{
+  background-color: #FFA500;
+  color: brown;
+  text-align: center;
+  font-family: cursive;
+}
+
+/*id*/
+#textdiv{
+  background-color:  green;
+  color: darkblue;
+}
+/*class*/
+.mydivs{
+
+  background-color: black;
+  color: pink;
+}
